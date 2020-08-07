@@ -1,5 +1,5 @@
 # Human_Gait_Data
-![fggh]
+
 This data was collected to provide scientists with a large human gait database conducted in real-world conditions suitable to be used in deep learning algorithms for various human gait analysis applications such as Health, Biometrics, Education, etc.
 
 ## 200GaitData: Gait Analysis and Recognition Based on Smartphone Inertial Sensors to Study Individual Differences in Over Ground Walking
@@ -21,9 +21,9 @@ Data: In order to download data, please use the following link.
 ## References
 Please cite our [Data Description paper on arXiv](https://arxiv.org/pdf/1905.03109.pdf)
 
-@article{vajdi2019human,
-  title={Human gait database for normal walk collected by smart phone accelerometer},
-  author={Vajdi, Amir and Zaghian, Mohammad Reza and Farahmand, Saman and Rastegar, Elham and Maroofi, Kian and Jia, Shaohua and Pomplun, Marc and Haspel, Nurit and Bayat, Akram},
-  journal={arXiv preprint arXiv:1905.03109},
-  year={2019}
+@article{vajdi2019human,</br>
+ title={Human gait database for normal walk collected by smart phone accelerometer},</br>
+  author={Vajdi, Amir and Zaghian, Mohammad Reza and Farahmand, Saman and Rastegar, Elham and Maroofi, Kian and Jia, Shaohua and Pomplun, Marc and Haspel, Nurit and Bayat, Akram},</br>
+  journal={arXiv preprint arXiv:1905.03109},</br>
+  year={2019}</br>
 }
