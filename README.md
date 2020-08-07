@@ -12,14 +12,15 @@ Akram Bayat, Amir Vajdi, Mohammad Reza Zaghian, Saman Farahmand, Elham Rastegar,
 
 This project was proposed and led by [Dr. Akram Bayat](https://www.media.mit.edu/people/abayat/overview/) under the supervision of [Professor Marc Pomplun](https://www.umb.edu/academics/csm/faculty_staff/marc_pomplun) in her final year as a Ph.D. student at the University of Massachusetts Boston. This project was partially supported by a GSA grant that was given to Akram Bayat.
 IRB approval: This Project has been reviewed and approved by the University of Massachusetts Boston IRB, Assurance # FWA00004634.
+![alt tag](gait.png)
 
 ## Download Data
 
-Data: In order to download data, please use the following link. 
-[Download 200GaitData](https://drive.google.com/drive/folders/1jDYvMC9y2ALAd6C3Uo2BuZNbNo1HcIb6?usp=sharing)
+Data: In order to download data, please use the following link. </br>
+[Download 200GaitData](https://drive.google.com/drive/folders/1jDYvMC9y2ALAd6C3Uo2BuZNbNo1HcIb6?usp=sharing)</br>
 [Download MetaData](https://drive.google.com/file/d/1DTr4r-GF9miETQEKEgWZmklyn7A1G-dj/view?usp=sharing)
 ## References
-Please cite our [Data Description paper on arXiv](https://arxiv.org/pdf/1905.03109.pdf)
+Please cite our Data Description paper on arXiv [Human Gait Database for Normal Walk Collected by Smartphone Accelerometer](https://arxiv.org/pdf/1905.03109.pdf):
 
 @article{vajdi2019human,</br>
  title={Human gait database for normal walk collected by smart phone accelerometer},</br>
