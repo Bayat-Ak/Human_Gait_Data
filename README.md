@@ -16,3 +16,13 @@ IRB approval: This Project has been reviewed and approved by the University of M
 
 Data: In order to download data, please use the following link. 
 [Download 200GaitData](https://drive.google.com/drive/folders/1jDYvMC9y2ALAd6C3Uo2BuZNbNo1HcIb6?usp=sharing)
+[Download MetaData](https://drive.google.com/file/d/1DTr4r-GF9miETQEKEgWZmklyn7A1G-dj/view?usp=sharing)
+## References
+Please cite our [Data Description paper on arXiv](https://arxiv.org/pdf/1905.03109.pdf)
+
+@article{vajdi2019human,
+  title={Human gait database for normal walk collected by smart phone accelerometer},
+  author={Vajdi, Amir and Zaghian, Mohammad Reza and Farahmand, Saman and Rastegar, Elham and Maroofi, Kian and Jia, Shaohua and Pomplun, Marc and Haspel, Nurit and Bayat, Akram},
+  journal={arXiv preprint arXiv:1905.03109},
+  year={2019}
+}
