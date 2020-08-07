@@ -1,5 +1,5 @@
 # Human_Gait_Data
-200GaitData: Gait Analysis and Recognition Based on Smartphone Inertial Sensors to Study Individual Differences in Over Ground Walking
+##200GaitData: Gait Analysis and Recognition Based on Smartphone Inertial Sensors to Study Individual Differences in Over Ground Walking
 
 Abstract: The goal of this study is to introduce a comprehensive gait database of 100 human subjects who walked between two endpoints during two different sessions (200 walking sessions) and their gait data were recorded using two smartphones, one that was attached to their right thigh and another one was carried by a phone holder on the left side of their waist. The metadata including age, gender, smoking, daily exercise time, height, and weight of each individual was also recorded.
 
