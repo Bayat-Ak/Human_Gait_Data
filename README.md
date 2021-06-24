@@ -18,6 +18,7 @@ IRB approval: This Project has been reviewed and approved by the University of M
 
 Data: In order to download data, please use the following link. </br>
 [Download 200GaitData](https://drive.google.com/drive/folders/1jDYvMC9y2ALAd6C3Uo2BuZNbNo1HcIb6?usp=sharing)</br>
+
 [Download MetaData](https://drive.google.com/file/d/1DTr4r-GF9miETQEKEgWZmklyn7A1G-dj/view?usp=sharing)
 ## References
 Please cite our Data Description paper on arXiv [Human Gait Database for Normal Walk Collected by Smartphone Accelerometer](https://arxiv.org/pdf/1905.03109.pdf):
